@@ -1,0 +1,30 @@
+{
+  "name": "msngr",
+  "version": "1.0.0",
+  "description": "data intake tool for message formatting",
+  "keywords": [
+    "google-apps-script",
+    "javascript",
+    "node",
+    "clasp"
+  ],
+  "homepage": "https://github.com/kennethdait/msngr#readme",
+  "bugs": {
+    "url": "https://github.com/kennethdait/msngr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethdait/msngr.git"
+  },
+  "license": "MIT",
+  "author": "Ken Dait",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.99",
+    "clasp": "^1.0.0"
+  }
+}
